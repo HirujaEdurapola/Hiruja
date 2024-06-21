@@ -1,0 +1,22 @@
+{
+  "name": "hiruja",
+  "version": "1.2.1",
+  "description": "Hiruja Edurapola",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "hiruja": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hiruja"
+  ],
+  "author": "Hiruja Edurapola",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk-animation": "^2.0.3"
+  }
+}
